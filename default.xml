@@ -66,7 +66,7 @@
   <project path="device/lge/mako" name="device/lge/mako" groups="device,mako" />
   <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device,mako" clone-depth="1" />
   <project path="device/moto/shamu" name="jakew02/android_device_moto_shamu" remote="gh" revision="android-5.1" />
-  <project path="kernel/moto/shamu" name="jakew02/android_kernel_moto_shamu" remote="gh" revision="android-5.1" />
+  <project path="kernel/moto/shamu" name="zephiK/android_kernel_moto_shamu" remote="gh" revision="lollipop" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="device/samsung/manta" name="device/samsung/manta" groups="device,manta" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs" />
